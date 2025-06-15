@@ -56,7 +56,7 @@ def detect_mask(frame):
 
 cap = cv2.VideoCapture(0)
 
-print("🔍 Starting Face Mask Detection. Press 'q' to quit.")
+print("Starting Face Mask Detection. Press 'q' to quit.")
 
 while True:
     ret, frame = cap.read()
