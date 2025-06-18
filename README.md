@@ -1,8 +1,8 @@
 # Face Mask Detection with Live Alert System
-A real-time deep learning-based face mask detection system that utilizes to detect the presence of a face mask on human faces on live streaming video as well as on images and alert the authority to take action on those who'r not wearing mask.
+A real-time deep learning-based face mask detection system that utilizes to detect the presence of a face mask on human faces on webcam video as well as on images and alert the authority to take action on those who are not wearing mask.
 
 # Features
-Real-time face detection using live streaming video
+Real-time face detection using webcam
 Binary classification: With Mask or No Mask
 Alerts when a face without a mask is detected
 
@@ -32,6 +32,10 @@ without_mask — people not wearing masks
 
 # Alert System
  Plays an alert sound using playsound or os.system() when a "No Mask" face is detected
+
+# Project Short Video Demo
+![Short Demo (2)](https://github.com/user-attachments/assets/64749cc1-dd5e-4cdd-a641-dc84c32bc8cf)
+![Short Demo (1)](https://github.com/user-attachments/assets/1c628069-cdfd-4699-b13c-44e352254d2e)
 
 
 
