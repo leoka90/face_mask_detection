@@ -38,9 +38,7 @@ without_mask — people not wearing masks
 # Alert System
  Plays an alert sound using playsound or os.system() when a "No Mask" face is detected
 
-
-
-#Future Improvements
+# Future Improvements
 1.Add multi-face tracking with mask status per person
 2.Support for video file input or IP camera
 3.GUI dashboard for better monitoring
