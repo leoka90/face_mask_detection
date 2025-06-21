@@ -1,18 +1,30 @@
+# Project Short Video Demo
+
+
+https://github.com/user-attachments/assets/25257286-948a-4cc2-9a4c-17169ae223db
+
+
+
+![Short Demo (2)](https://github.com/user-attachments/assets/64749cc1-dd5e-4cdd-a641-dc84c32bc8cf)
+![Short Demo (1)](https://github.com/user-attachments/assets/1c628069-cdfd-4699-b13c-44e352254d2e)
+   
+
+
 # Face Mask Detection with Live Alert System
-A real-time deep learning-based face mask detection system that utilizes to detect the presence of a face mask on human faces on live streaming video as well as on images and alert the authority to take action on those who'r not wearing mask.
+A real-time deep learning-based face mask detection system that utilizes to detect the presence of a face mask on human faces on webcam video as well as on images and alert the authority to take action on those who are not wearing mask.
 
 # Features
-Real-time face detection using live streaming video
-Binary classification: With Mask or No Mask
-Alerts when a face without a mask is detected
+1.Real-time face detection using webcam
+2.Binary classification: With Mask or No Mask
+3.Alerts when a face without a mask is detected
 
 # Tools and Libraries Used
-Python 3.10 
-TensorFlow/Keras — to build and train the AI model
-OpenCV — for webcam video and face detection
-NumPy — for handling image data
-Haar Cascades — a simple face detection method
-Playsound / OS module — for playing alert sounds
+1.Python 3.10 
+2.TensorFlow/Keras — to build and train the AI model
+3.OpenCV — for webcam video and face detection
+4.NumPy — for handling image data
+5.Haar Cascades — a simple face detection method
+6.Playsound / OS module — for playing alert sounds
 
 # Dataset
 link: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
@@ -32,6 +44,12 @@ without_mask — people not wearing masks
 
 # Alert System
  Plays an alert sound using playsound or os.system() when a "No Mask" face is detected
+
+# Future Improvements
+1.Add multi-face tracking with mask status per person
+2.Support for video file input or IP camera
+3.GUI dashboard for better monitoring
+4.Integration with security systems for enterprise use
 
 
 
