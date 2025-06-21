@@ -1,8 +1,13 @@
 # Project Short Video Demo
+
+
+https://github.com/user-attachments/assets/25257286-948a-4cc2-9a4c-17169ae223db
+
+
+
 ![Short Demo (2)](https://github.com/user-attachments/assets/64749cc1-dd5e-4cdd-a641-dc84c32bc8cf)
 ![Short Demo (1)](https://github.com/user-attachments/assets/1c628069-cdfd-4699-b13c-44e352254d2e)
-https://github.com/user-attachments/assets/1aefc748-bc7e-4d47-a10f-20e8f69cbe04
-
+   
 
 
 # Face Mask Detection with Live Alert System
